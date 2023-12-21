@@ -72,7 +72,8 @@ npm start
 Open your browser and visit http://localhost:3000 to view the application.
 
 Demo
-Live demo: [click here](#https://keep-mini.vercel.app/)
+Live demo: 
+## https://keep-mini.vercel.app/
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
