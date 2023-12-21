@@ -56,7 +56,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/your-username/google-keep-clone.git
+git clone https://github.com/misterKumar/keep-mini
 Navigate to the project directory:
 
 
@@ -72,7 +72,7 @@ npm start
 Open your browser and visit http://localhost:3000 to view the application.
 
 Demo
-Live demo: Google Keep Clone
+Live demo: [click here](#https://keep-mini.vercel.app/)
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
