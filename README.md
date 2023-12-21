@@ -1,7 +1,9 @@
 # Google Keep Clone
 
 A simplified version of Google Keep, a note-taking application, built using React.
-
+# Demo
+Live demo: 
+## https://keep-mini.vercel.app/
 ## Table of Contents
 
 - [Overview](#overview)
@@ -71,9 +73,7 @@ Start the development server:
 npm start
 Open your browser and visit http://localhost:3000 to view the application.
 
-Demo
-Live demo: 
-## https://keep-mini.vercel.app/
+
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
